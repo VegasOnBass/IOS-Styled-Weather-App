@@ -1,0 +1,3 @@
+# IOS Styled Weather App
+
+This is a weather app built using React Native and Expo. It is styled after the ios weather app. The app finds the weather for the users current location as well as other locations that the user can save and delete at will. Users are able to switch between Fahrenheit and Celsius. The forecast shown on each locations page are hourly (24 hour forecast) and a 3 day forecast that shows highs and lows with a temp gauge.
