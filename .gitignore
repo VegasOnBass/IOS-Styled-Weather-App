@@ -14,4 +14,4 @@ web-build/
 .DS_Store
 
 .env
-yarn-error
+yarn-error.log
